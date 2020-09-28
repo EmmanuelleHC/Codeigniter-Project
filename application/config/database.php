@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => '192.168.71.212',
-	'username' => 'postgres',
-	'password' => 'postgres123',
-	'database' => 'idm_ulok',
+	'hostname' => 'localhost',
+	'username' => 'root',
+	'password' => '',
+	'database' => 'test',
 	'port'	   => '5432',
 	'dbdriver' => 'postgre',
 	'dbprefix' => '',
